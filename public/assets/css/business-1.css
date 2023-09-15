@@ -237,7 +237,7 @@ select:visited {
   width: 8px;
   height: 50px;
   margin-right: 5px;
-  background-color: #FB923C;
+  background-color: #0B75BC;
   -webkit-animation: animate24 1s infinite;
   animation: animate24 1s infinite;
   float: left;
@@ -316,7 +316,7 @@ select:visited {
 }
 
 .pr1-primary-btn a {
-  background-color: #ff6c00;
+  background-color: #0B75BC;
   color: #ffffff;
   text-align: center;
   width: 156px;
@@ -333,8 +333,8 @@ select:visited {
 
 .pr1-primary-btn a:hover {
   background-color: transparent;
-  border: 2px solid #ff6c00;
-  color: #ff6c00;
+  border: 2px solid #0B75BC;
+  color: #0B75BC;
 }
 
 .pr1-readmore-btn {
@@ -497,7 +497,7 @@ select:visited {
 .pr1-navigation-menu ul li ul {
   position: absolute;
   width: 220px;
-  background-color: #FB923C;
+  background-color: #0B75BC;
   text-align: left;
   top: 110%;
   left: 0;
@@ -830,11 +830,13 @@ select:visited {
 
 .pr1-hero-section {
   margin-top: -80px;
+  /* background-color: black; */
 }
 
 .pr1-hero-section rs-layer#slider-26-slide-85-layer-10 img.tp-rs-img {
   -webkit-animation: 3.5s pr1_shape_ups_down infinite;
   animation: 3.5s pr1_shape_ups_down infinite;
+  
 }
 
 @media (max-width: 1850px) {
@@ -842,6 +844,7 @@ select:visited {
     width: 70% !important;
     height: auto !important;
     left: 0px;
+   
   }
 }
 
@@ -918,7 +921,7 @@ select:visited {
 .pr1-work-column .pr1-icon-container i {
   width: 60px;
   height: 60px;
-  background-color: #ffe1ca;
+  background-color: #c3c4e2;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -930,7 +933,7 @@ select:visited {
   justify-content: center;
   font-size: 36px;
   border-radius: 3px;
-  color: #ff6c00;
+  color: #0B75BC;
 }
 
 .pr1-work-column .pr1-headline {
@@ -1106,7 +1109,7 @@ select:visited {
   justify-content: center;
   font-size: 36px;
   border-radius: 3px;
-  color: #ff6c00;
+  color: #0B75BC;
 }
 
 .pr1-business-right .pr1-business-column .pr1-headline {
@@ -1193,7 +1196,7 @@ select:visited {
 }
 
 .pr1-team-slider .slick-dots li.slick-active button {
-  background-color: #ff6c00;
+  background-color: #0B75BC;
 }
 
 .pr1-team-slider .pr1-team-single {
@@ -1261,7 +1264,7 @@ select:visited {
 }
 
 .pr1-team-slider .pr1-team-single .pr1-team-slider-left .pr1-team-thumb .pr1-team-social a:hover {
-  color: #ff6c00;
+  color: #0B75BC;
 }
 
 .pr1-team-slider .pr1-team-single .pr1-team-slider-left .pr1-team-thumb .pr1-team-social a+a {
@@ -1285,7 +1288,7 @@ select:visited {
   background-color: transparent;
   padding: 6px;
   border-radius: 5px;
-  border: 2px solid #ff6c00;
+  border: 2px solid #0B75BC;
   color: #010148;
   font-family: "Spartan", sans-serif;
   font-weight: 600;
@@ -1448,7 +1451,7 @@ select:visited {
 }
 
 .pr1-clients-slider-wrapper .slick-dots li.slick-active button {
-  background-color: #ff6c00;
+  background-color: #0B75BC;
 }
 
 .pr1-clients-slider .pr1-client-single {
@@ -1621,7 +1624,7 @@ select:visited {
 .pr1-blog-column .pr1-readmore-btn a {
   padding: 8px 24px;
   background-color: transparent;
-  border: 2px solid #ff6c00;
+  border: 2px solid #0B75BC;
   border-radius: 5px;
   display: inline-block;
 }
@@ -1704,7 +1707,7 @@ select:visited {
 .pr1-footer-contents .pr1-footer-widget .pr1-footer-btn a {
   width: 150px;
   height: 45px;
-  background: #ff6c00;
+  background: #0B75BC;
   display: inline-block;
   text-align: center;
   line-height: 45px;
@@ -1850,7 +1853,7 @@ select:visited {
 }
 
 .pr1-pricing-tab .nav li a.active {
-  background-color: #ff6c00;
+  background-color: #0B75BC;
   color: #ffffff;
 }
 
@@ -1885,7 +1888,7 @@ select:visited {
   line-height: 60px;
   font-size: 30px;
   border-radius: 3px;
-  color: #ff6c00;
+  color: #0B75BC;
   -webkit-transition: all 0.3s ease-in;
   -o-transition: all 0.3s ease-in;
   transition: all 0.3s ease-in;
@@ -1932,7 +1935,7 @@ select:visited {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  color: #ff6c00;
+  color: #0B75BC;
 }
 
 .pr1-pricing-tab .tab-content .pr1-tab-column .pr1-tab-btn {
@@ -1942,7 +1945,7 @@ select:visited {
 .pr1-pricing-tab .tab-content .pr1-tab-column .pr1-tab-btn a {
   padding: 8px 18px;
   background-color: transparent;
-  border: 2px solid #ff6c00;
+  border: 2px solid #0B75BC;
   border-radius: 5px;
   display: inline-block;
   font-weight: 700;
